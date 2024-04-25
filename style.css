@@ -147,10 +147,14 @@ padding: 0px;
     display: flex;
     padding-top: 20px;
     border-top: 1px solid silver;
+    align-items: center;
 
 }
 .ave-smoke img {
-    height: 100px;
+    width: 100px;
+}
+.ave-smoke .ave-image {
+    /* background-color: yellow; */
 }
 .ave-smoke .text {
     /* background-color: red; */
